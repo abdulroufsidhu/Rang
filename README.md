@@ -1,6 +1,3 @@
-# Rang
-This is privacy policy for Rang Application on Playstore
-
 **Privacy Policy**
 
 Abdul Rauf built the Rang app as an Ad Supported app. This SERVICE is provided by Abdul Rauf at no cost and is intended for use as is.
